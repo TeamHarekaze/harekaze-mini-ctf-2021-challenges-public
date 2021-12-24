@@ -5,7 +5,7 @@
 |[first exam](crypto/first_exam/)|Crypto|kurenaif|52|134|
 |[sage training](crypto/sage_training/)|Crypto|kurenaif|27|179|
 |[mulmulmulti-prime rsa](crypto/mulmulmulti-prime_rsa/)|Crypto|kurenaif|18|215|
-|[lost key](crypto/lost_key/)|Reversing|kurenaif|16|227|
+|[lost key](crypto/lost_key/)|Crypto|kurenaif|16|227|
 |[Crackme](rev/crackme/)|Reversing|kataware|20|205|
 |[Let's read wasm](rev/lets-read-wasm/)|Reversing|st98|5|365|
 |[Pack Program](rev/pack-program/)|Reversing|kataware|3|428|
